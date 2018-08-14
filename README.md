@@ -1,2 +1,2 @@
-# cuasapi2
-latest version
+# cuas-api project
+# Developer - Santosh Kumar Thiruvanagiri
